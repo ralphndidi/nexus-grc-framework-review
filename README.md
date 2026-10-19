@@ -62,6 +62,6 @@ Nexus Financial Services is a fast-growing financial company in Lagos, Nigeria, 
 ## Connect
 
 💼 [LinkedIn](linkedin.com/in/raphael-ndidi-uboma)
-🔗 [LinkedIn post about this project](lnkd.in/p/eQFJ4gmM)
+🔗 [LinkedIn post about this project](https://lnkd.in/p/eQFJ4gmM)
 
 `#GRC` `#GRCWith10Alytics`

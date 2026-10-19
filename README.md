@@ -2,8 +2,6 @@
 
 A Governance, Risk, and Compliance (GRC) case study completed as part of the **GRC Framework Integration** class with [10Alytics](https://www.linkedin.com/company/10alytics/).
 
-📄 **[Read the full assignment (PDF)](./Nexus_GRC_Student_Assignment.pdf)**
-
 ---
 
 ## Scenario
